@@ -1,0 +1,7 @@
+azure-mgmt-network
+azure-identity
+requests
+sys
+getopt
+json
+time
