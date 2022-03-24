@@ -7,8 +7,8 @@ The script resizes an Aviatrix Spoke gateway in Azure in an efficient way to red
 # Usage
 
 Use the following paramateres when executing the script:
- -c <Aviatrix controller IP>
- -u <Aviatrix controller username>
- -p <Aviatrix controller password>
- -g <Spoke gateway name to resize>
- -s <New gateway size>
+* -c Aviatrix controller IP
+* -u Aviatrix controller username
+* -p Aviatrix controller password
+* -g Spoke gateway name to resize
+* -s New gateway size
