@@ -1,4 +1,4 @@
-# aviatrix-azure-gatewayresize
+# Aviatrix Azure Spoke Gateway Resize
 Code to resize Aviatrix Spoke Gateways with minimal downtime in Azure 
 
 # What does this script do?
